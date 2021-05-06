@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "d637a81409eecbe81683",
-    "url": "/static/css/main.677e6534.chunk.css"
+    "revision": "b6a57ee36b3062c57643",
+    "url": "/static/css/main.2b1b8f2a.chunk.css"
   },
   {
-    "revision": "d637a81409eecbe81683",
-    "url": "/static/js/main.cc7b0039.chunk.js"
+    "revision": "b6a57ee36b3062c57643",
+    "url": "/static/js/main.8b49d44b.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "1e5554a5b45c82cd99c4",
-    "url": "/static/css/2.b2f4b999.chunk.css"
+    "revision": "c592b2a22fc393924bcd",
+    "url": "/static/css/2.56da4a1f.chunk.css"
   },
   {
-    "revision": "1e5554a5b45c82cd99c4",
-    "url": "/static/js/2.1d6d2c28.chunk.js"
+    "revision": "c592b2a22fc393924bcd",
+    "url": "/static/js/2.8450c80a.chunk.js"
   },
   {
     "revision": "6fd02e826c22a2195e2e4812ff4dbbbe",
@@ -32,6 +32,10 @@ self.__precacheManifest = [
     "url": "/static/media/thrive_logo.5dbf7be5.png"
   },
   {
+    "revision": "b22b58aa1aa052ce79360142a13fab4d",
+    "url": "/static/media/qual1.b22b58aa.png"
+  },
+  {
     "revision": "e5d5a8449dde156b4149b886f389963f",
     "url": "/static/media/EllisWells.e5d5a844.png"
   },
@@ -44,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/media/AnthonyArnold.7792a7f4.jpg"
   },
   {
-    "revision": "5588ae2633e927ee33e1996835027ec4",
+    "revision": "6161522500ac41cece033e1a3d2c18dd",
     "url": "/index.html"
   }
 ];
