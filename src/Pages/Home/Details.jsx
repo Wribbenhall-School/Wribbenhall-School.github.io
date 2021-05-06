@@ -20,6 +20,18 @@ function Details() {
 						<li>Worcestershire</li>
 						<li>DY12 1JL</li>
 					</ul>
+					<img
+						src={require("../../Images/qual1.png")}
+						alt='qualifactions'
+						width='100'
+						style={{ padding: "10px" }}
+					/>
+					<img
+						src={require("../../Images/qual2.png")}
+						alt='qualifactions'
+						width='200'
+						style={{ padding: "10px" }}
+					/>
 				</div>
 				<div className='card'>
 					<h4>Our Governor</h4>
